@@ -2,7 +2,7 @@
 
 //Return the number of substrings containing at least one occurrence of all these characters a, b and c.
 
-class Solution {
+class Substring {
     public int numberOfSubstrings(String s) {
 
         int count = 0;
